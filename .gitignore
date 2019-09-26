@@ -1,0 +1,13 @@
+*.pyc
+*~
+*.sw[a-p]
+\#*\#
+\#*
+*.exe
+*.aux
+*.[a-zA-Z0-9]
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
